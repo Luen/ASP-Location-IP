@@ -1,6 +1,8 @@
 <% 'http://en.utrace.de/api.php
 
-		' this file is used in send.asp and send_inq.asp
+		'...The old API will be disabled on Nov 15th 12:00am GMT 2010. Existing users are requested to update their APIs as soon as possible...
+		'API key
+		key = "INPUT API KEY HERE"
 
 
 		' fraud detection - http://ipinfodb.com/fraud_detection.php
@@ -22,9 +24,6 @@
 		' http://ip-whois-lookup.com/lookup.php?ip=41.211.217.80
 
 
-		'...The old API will be disabled on Nov 15th 12:00am GMT 2010. Existing users are requested to update their APIs as soon as possible...
-		'API key
-		key = "a871ea08a0a6daeefa5e82c3d483bd5b2ba44997c2c2d59910b3cfcf6d1468b9"
 
 		'--------------------
 		' LOCATION script
